@@ -2,7 +2,7 @@
 
 A web app that helps users compose a complete, correctly formatted support message for Texas Instruments calculator warranty claims — eliminating the usual back-and-forth with TI support.
 
-**Live at [claim.kmiguel.com](https://claim.kmiguel.com)**
+**Live at [ti-warranty.kmiguel.com](https://ti-warranty.kmiguel.com/)**
 
 ## Why
 
