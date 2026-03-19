@@ -237,8 +237,37 @@ export default function App() {
           {stepContent}
         </div>
 
-        <footer className="mt-6 pb-4 text-center text-xs text-gray-400">
-          This tool is not affiliated with Texas Instruments.
+        <footer className="mt-6 pb-4 text-center text-xs text-gray-400 space-y-1">
+          <p>
+            Made by{" "}
+            <a
+              href="https://github.com/kozeljmi"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-gray-600 transition-colors"
+            >
+              kozeljmi
+            </a>
+            {" · "}
+            <a
+              href="https://github.com/kozeljmi/ti-warranty-claim-generator"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-gray-600 transition-colors"
+            >
+              Source
+            </a>
+            {" · "}
+            <a
+              href="https://github.com/kozeljmi/ti-warranty-claim-generator/blob/main/LICENSE"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-gray-600 transition-colors"
+            >
+              AGPL-3.0
+            </a>
+          </p>
+          <p>Not affiliated with Texas Instruments.</p>
         </footer>
       </div>
     </div>

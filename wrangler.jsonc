@@ -32,7 +32,7 @@
 	},
 	"routes": [
     	{
-      	"pattern": "claim.kmiguel.com",
+      	"pattern": "ti-warranty.kmiguel.com",
       	"custom_domain": true
     	}
   	],
