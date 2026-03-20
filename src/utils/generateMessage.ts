@@ -37,5 +37,10 @@ Below is the information typically required for a warranty claim:
 6) A clear photo of the back of the device confirming the Serial Number and Date Code: [Attached]
 7) Proof of purchase: [Attached]
 
-Thank you very much for your help.`;
+I kindly ask that the claim only be processed if no costs will be incurred on my end.
+
+Thank you very much for your help.
+
+Kind regards,
+${data.lastName} ${data.firstName}`;
 }
